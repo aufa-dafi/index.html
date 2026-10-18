@@ -1,0 +1,6 @@
+{
+  "name": "PasarUMKM Multi-Vendor",
+  "description": "Platform E-Commerce Multi-Vendor untuk UMKM dengan katalog per toko, keranjang belanja, pembayaran, ulasan, serta dashboard admin komisi dan laporan keuangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
